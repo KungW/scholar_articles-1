@@ -1,0 +1,16 @@
+venv
+pdf-parser
+torrc
+.DS_Store
+__pycache__
+*.pyc
+*.log
+download/
+logs
+*.html
+config
+*.swp
+nohup.out
+src/amount_log.txt
+/src/Journals_Task/ComputerScienceTaskManager.py
+.idea/

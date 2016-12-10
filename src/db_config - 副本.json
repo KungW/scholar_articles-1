@@ -1,0 +1,10 @@
+{
+  "db_name":  "sf_development",
+  "user":     "lyn",
+  "password": "tonylu716",
+  "host":     "45.32.11.113",
+  "port":     5432,
+  "local_pool_size":   5,
+  "remote_pool_size":  2,
+  "master_db_in": false
+}
