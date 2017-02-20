@@ -43,7 +43,10 @@
 
 # 挖掘工作的两个方向和重点： 
 ##`杂志社方向`
-	根据SJR网站提供的journal rank，索引各个领域排名靠前的杂志社.对于每个杂志社或出版社做解析器，爬取所有论文结果以及相关的作者及各种数据关系（技术上包括单机多线程，多机器混合调度等）映射为数据库中的各个表。
+	根据[SJR](http://www.scimagojr.com/journalrank.php)提供的journal rank
+	索引各个领域排名靠前的杂志社.对于每个杂志社或出版社做解析器，
+	爬取所有论文结果以及相关的作者及各种数据关系（技术上包括单机多线程，多机器混合调度等）
+	映射为数据库中的各个表。
 	数据关系层次为：Area——Journal——Article——Scholar
  
 ##`Google Schloar`
@@ -167,7 +170,6 @@
 	对二级页面的bibtex异步爬取
 	Dynamic Data Update
 	从静态网页上更新article条目
-
 
 ##`JournalTask`：
 ![](http://visualspider-visualspider.stor.sinaapp.com/%E5%9B%BE%E7%89%87%201.png)		
