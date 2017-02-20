@@ -171,20 +171,20 @@
 	从静态网页上更新article条目
 
 ##`JournalTask`：
-![](http://visualspider-visualspider.stor.sinaapp.com/%E5%9B%BE%E7%89%87%201.png)		
+![](https://github.com/lyn716/pics_temp_area/blob/master/%E5%9B%BE%E7%89%87%201.png?raw=true)		
 
 > `ExistedSpider`模块，专门放已经写好的爬虫配置和依赖， 
     由主控制器`MajorTaskManager`根据db中检索得到的杂志社url匹配关键词，启动相关爬虫并分配到线程中去。 
 
-![](http://visualspider-visualspider.stor.sinaapp.com/%E5%9B%BE%E7%89%87%202.png)
+![](https://github.com/lyn716/pics_temp_area/blob/master/%E5%9B%BE%E7%89%87%202.png?raw=true)
 
 > 譬如，启动爬取人工智能领域 
 
-![](http://visualspider-visualspider.stor.sinaapp.com/%E5%9B%BE%E7%89%87%203.png)
+![](https://github.com/lyn716/pics_temp_area/blob/master/%E5%9B%BE%E7%89%87%203.png?raw=true)
 
-![](http://visualspider-visualspider.stor.sinaapp.com/%E5%9B%BE%E7%89%87%204.png)
+![](https://github.com/lyn716/pics_temp_area/blob/master/%E5%9B%BE%E7%89%87%204.png?raw=true)
 
 
 > 爬取到新文章提示 ：
 
-![](http://visualspider-visualspider.stor.sinaapp.com/%E5%9B%BE%E7%89%87%205.png)
+![](https://github.com/lyn716/pics_temp_area/blob/master/%E5%9B%BE%E7%89%87%205.png?raw=true)
