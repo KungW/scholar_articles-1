@@ -162,10 +162,10 @@
 # 目录结构及运行方法介绍
 
 ##`GoogleScholarTask`
- ###ArticleSpider:
+###ArticleSpider:
 > 由Scholar Name出发的挖掘对搜索结果页直接出现的所有article信息的直接捕获
     
- ###bibtex:
+###bibtex:
 > 对二级页面的bibtex异步爬取
 	Dynamic Data Update
 	从静态网页上更新article条目
